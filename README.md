@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a Chat Clone**
 
-- 🌱 I’m currently learning **AWS, C, and C++.**
+- 🌱 I’m currently learning **AWS, Azure, C, and C++.**
 
 - 📫 How to reach me **bruceyim05@gmail.com**
 

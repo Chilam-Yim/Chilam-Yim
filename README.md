@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://download-resume-bruce-yim.vercel.app/](https://download-resume-bruce-yim.vercel.app/)
 
-- ⚡ Fun fact **: Tell me you are in Canada without telling me you are in Canadian. What did you order at Tims? A double-double**
+- ⚡ Fun fact **: Tell me you are in Canada without telling me you are in Canada. What did you order at Tims? A double-double**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

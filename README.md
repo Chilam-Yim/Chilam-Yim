@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chi Lam Yim</h1>
-<h3 align="center">A passionate frontend developer from Hong Kong living in Toronto</h3>
+<h1 align="center">Hi 👋, I'm Chi Lam Yim.</h1>
+<h3 align="center">You may also call me Bruce</h3>
+<h3 align="center">A passionate web developer from Hong Kong living in Toronto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chilam-yim&label=Profile%20views&color=0e75b6&style=flat" alt="chilam-yim" /> </p>
 

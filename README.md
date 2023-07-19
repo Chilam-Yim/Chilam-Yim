@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bruceyim05@gmail.com**
 
-- 📄 Know about my experiences [https://download-resume-bruce-yim.vercel.app/](https://download-resume-bruce-yim.vercel.app/)
+- 📄 Download my resume here: [https://download-resume-bruce-yim.vercel.app/](https://download-resume-bruce-yim.vercel.app/)
 
 - ⚡ Fun fact **: Tell me you are in Canada without telling me you are in Canada. What did you order at Tims? A double-double**
 

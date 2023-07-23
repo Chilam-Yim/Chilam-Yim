@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **: Tell me you are in Canada without telling me you are in Canada. What did you order at Tims? A double-double**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:      </h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruce yim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruce yim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bruceatgit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bruceatgit" height="30" width="40" /></a>

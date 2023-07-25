@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chilam-yim&label=Profile%20views&color=0e75b6&style=flat" alt="chilam-yim" /> </p>
 
-- 🔭 I’m currently working on **a Chat Clone**
+- 🔭 I’m currently working on **a Chat Clone using React and firebase. Stay tuned!**
 
 - 🌱 I’m currently learning **AWS, Azure, C, and C++.**
 

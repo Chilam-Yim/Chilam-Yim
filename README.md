@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS, Azure, C, and C++.**
 
-- 📫 How to reach me **bruceyim05@gmail.com**
+- 📫 How to reach me **bruceyim05@gmail.com **
 
 - 📄 Download my resume here: [https://download-resume-bruce-yim.vercel.app/](https://download-resume-bruce-yim.vercel.app/)
 
